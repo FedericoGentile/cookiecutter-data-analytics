@@ -12,7 +12,7 @@ Project Organization
 	│   ├── Interim        <- Intermediate data that has been transformed.
 	│   └── Processed      <- The final, canonical data sets for modeling.
 	│
-	├── Documents          <- Documents that are relevant for the project .
+	├── Documentations     <- Documentation that is relevant for the project.
 	│
 	├── Images             <- Generated graphics and figures to be used in reporting.
 	│
